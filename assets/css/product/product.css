@@ -1,0 +1,14 @@
+.product_color{
+	width: 18px;
+	height: 18px;
+	display: block;
+	position: absolute;
+	left:20px;
+	top: 7px;
+}
+.product_color_name{
+	display: block;
+	position: absolute;
+	left:50px;
+	top: 7px;	
+}
